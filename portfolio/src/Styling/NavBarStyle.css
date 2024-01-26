@@ -1,5 +1,9 @@
 .leftmost-navbar {
-  position: absolute;
-  left:15px;
+  position: relative;
+  left:-50px;
   margin-right: 15px;
   }
+
+Nav{
+    position:relative;
+}

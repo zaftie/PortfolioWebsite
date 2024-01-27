@@ -4,7 +4,7 @@ import BasicExample from '../Components/NavScrollExample';
 function Skills() {
   return (<div>
                 <BasicExample/>
-                <h1>Welcome to the Skills Page!</h1>;
+                <h1 style={{ textAlign: 'center', color: 'white' }}>Welcome to the Skills Page!</h1>;
             </div>);
 }
 

@@ -4,7 +4,7 @@ function Home() {
   return   (     
         <div>
             <BasicExample/>
-            <h1>Welcome to the Home Page!</h1>
+            <h1 style={{ textAlign: 'center', color: 'white' }}>Welcome to the Home Page!</h1>
       </div>  );
 }
 

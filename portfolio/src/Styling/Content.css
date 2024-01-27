@@ -1,0 +1,11 @@
+.content{
+
+    color: white;
+    background-color: rgb(15, 15, 15);
+   
+    width: 100%;
+    max-width: 1800px; /* Adjust the max-width to control the width of the rectangle */
+    margin: 0 auto; /* Center the container horizontally */
+    padding: 20px; /* Add padding for space on both sides */
+    box-sizing: border-box; 
+}
